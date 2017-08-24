@@ -1,0 +1,53 @@
+
+.Boogle_image {
+	text-align: center;
+	margin: 20px;
+}
+
+h1 {
+	font-family: Monospace;
+	color: gray;
+	opacity: .6;
+	margin-top: 10px;
+}
+
+h3 {
+	font-family: Monospace;
+	color: gray;
+	opacity: .6;
+	margin: 20px;
+}
+
+.Profile_pic {
+	background-color: #F0F8FF;
+	text-align: center;
+	width: 400px;
+	height: 350px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 5px 5px 5px grey;
+}
+
+.Profile_pic img {
+	margin: 25px;
+}
+
+.next {
+	margin: 15px;
+}
+
+.password {
+	text-decoration: none;
+	
+}
+
+.orodna {
+	margin-top: -35px;
+	text-align: center; 
+}
+
+
+
+
+
+
